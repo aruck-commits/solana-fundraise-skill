@@ -1,59 +1,57 @@
-solana-fundraise-skill
+# solana-fundraise-skill
 
-A Claude Code / Codex skill that turns any AI coding agent into an expert Solana ecosystem fundraising advisor.
-Covers grants from the Solana Foundation, Superteam Earn, and Colosseum — for founders at any stage, from raw idea to live product.
+Every Solana AI skill out there teaches you how to build. None of them teach you how to get funded.
+
+This skill fixes that. Add it to Claude Code and your agent can actually help you navigate Solana ecosystem grants — which program to apply to, how to write proposals that don't get ignored, and how to position your project depending on what stage you're at.
+
+Covers Solana Foundation, Superteam Earn, and Colosseum.
+
 ---
-The problem this solves
-The Solana AI Kit has deep technical skills — how to build, deploy, audit, and ship. But when a founder asks their coding agent "how do I fund this?" the answer falls apart. There's no skill in the ecosystem that covers:
-Which grant program to apply to (and when)
-How to write a milestone-based proposal that actually gets funded
-How to position a project for grant reviewers vs VC vs community
-The real differences between Superteam, Foundation, and Colosseum — and how to stack them
-This skill fills that gap.
----
-What's inside
+
+## What's inside
+
 ```
 solana-fundraise-skill/
-├── SKILL.md                     ← main router
-├── README.md                    ← this file
-├── install.sh                   ← one-click installer
+├── SKILL.md                     ← routes the agent to the right file
+├── install.sh                   ← one-click setup
 └── skill/
-    ├── grants-overview.md       ← map of all programs + decision tree
-    ├── solana-foundation.md     ← Foundation grant deep dive
+    ├── grants-overview.md       ← which program is right for you + decision tree
+    ├── solana-foundation.md     ← Foundation grant structure, what they fund, what they reject
     ├── superteam-grants.md      ← Superteam Earn + regional grants
     ├── colosseum.md             ← hackathon strategy + accelerator path
-    ├── application-writing.md   ← templates, checklists, examples
-    └── positioning.md           ← how to frame your project to win
+    ├── application-writing.md   ← proposal templates, milestone format, checklist
+    └── positioning.md           ← how to frame your project so reviewers actually care
 ```
+
 ---
-Install
+
+## Install
+
 ```bash
 curl -fsSL https://raw.githubusercontent.com/aruck-commits/solana-fundraise-skill/main/install.sh | bash
 ```
+
 Or manually:
+
 ```bash
 git clone https://github.com/aruck-commits/solana-fundraise-skill.git
 cd solana-fundraise-skill
 bash install.sh
 ```
+
 ---
-Usage
-Once installed, your Claude Code agent will automatically route fundraising questions to the right skill file.
-Example prompts:
-"I want to apply for a Solana Foundation grant — where do I start?"
-"Help me write the milestones section of my Superteam grant proposal"
-"Is my project ready for Colosseum? What do I need to fix?"
-"How do I position my project for grant reviewers?"
+
+## Try it
+
+Once installed, ask Claude Code things like:
+
+- "Which grant should I apply to first?"
+- "Write the milestones section for my Superteam proposal"
+- "Is my project ready for Colosseum?"
+- "How do I position this for Foundation reviewers?"
+
 ---
-Design principles
-Progressive loading — only loads what's needed, token-efficient
-Stage-aware — advice adapts to idea / prototype / live product
-No fluff — direct, ecosystem-accurate, current to 2026 stack
-Cross-domain — covers the fundraising layer that technical skills don't touch
----
-License
-MIT
----
-Author
-Built by @aruck2006 for the Solana AI Kit community bounty.
-Contributions welcome — open a PR.
+
+## License
+
+MIT — [@aruck2006](https://x.com/aruck2006)
