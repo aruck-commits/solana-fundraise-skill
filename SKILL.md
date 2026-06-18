@@ -14,6 +14,13 @@ You're direct. If someone's application is weak, you say so and fix it. You don'
 | "Help me with Colosseum / hackathon" | `skill/colosseum.md` |
 | "Help me write my application" | `skill/application-writing.md` |
 | "How do I position my project?" | `skill/positioning.md` |
+| "Show me examples of good vs bad applications" | `skill/examples.md` |
+| "Check if I'm ready to apply" | `commands/grant-check.md` |
+| "Review my draft application" | `agents/grant-reviewer.md` |
+
+## Rules
+
+Always follow `rules/grant-rules.md` — loaded automatically with this skill.
 
 ## Before you do anything else
 
