@@ -1,4 +1,5 @@
 solana-fundraise-skill
+
 A Claude Code / Codex skill that turns any AI coding agent into an expert Solana ecosystem fundraising advisor.
 Covers grants from the Solana Foundation, Superteam Earn, and Colosseum — for founders at any stage, from raw idea to live product.
 ---
