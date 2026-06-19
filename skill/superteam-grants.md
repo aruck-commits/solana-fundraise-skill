@@ -6,86 +6,98 @@ The fastest, most accessible grant path in the Solana ecosystem. Community-drive
 
 ## How Superteam grants work
 
-Superteam operates regional chapters (India, Nigeria, Vietnam, Turkey, Brazil, UAE, and more). Each chapter has its own grant budget, but all follow the same core framework.
+Superteam operates regional chapters (India, Nigeria, Vietnam, Turkey, Brazil, UAE, and more). Grants are listed directly on **earn.superteam.fun/grants** and are equity-free.
 
-Two main paths:
+Two main types:
 
-### 1. Superteam Earn Grants
-- Listed directly on earn.superteam.fun as grant listings
-- Apply by submitting a proposal document
-- Reviewed by the regional chapter lead + core team
-- Range: $500 – $5,000 USDC typically
-- **Best for:** Builders who are already active on Superteam Earn (bounty history helps a lot)
+### 1. Open Grants (earn.superteam.fun/grants)
+Listed publicly on the platform. Anyone can apply by submitting a proposal.
+
+Current active grant programs include:
+- **Superteam Meetup Fund** — up to $200 USDC for organizing local Solana meetups
+- **Startup Accelerator Grant** (by DD.xyz / Webacy) — up to $10,000 USDC for early-stage startups
+- Grant listings change regularly — check earn.superteam.fun/grants for what's live
 
 ### 2. Regional Chapter Grants
-- Applied for directly through the regional chapter (India chapter = Superteam India)
-- More flexible scope — community tools, IRL events, ecosystem content, developer education
-- Range: $1,000 – $10,000 USDC
-- **Best for:** Community builders, content creators with an audience, event organizers
+Applied for directly through your regional chapter (India chapter = Superteam India).
+- More flexible scope — community tools, events, content, dev education
+- Connect with your regional lead through the Superteam Discord or IRL events
 
 ---
 
 ## What Superteam funds (that Foundation won't)
 
-- IRL events and meetups in emerging markets
-- Community tools (bots, dashboards, tracking tools for Superteam members)
-- Regional content (threads, videos, newsletters in local languages)
-- Onboarding programs for new Solana builders
-- Tooling for the Superteam Earn platform itself
+- IRL meetups and community events (Meetup Fund covers up to $200 per event)
+- Regional content — threads, videos, newsletters for local audiences
+- Community tools (bots, dashboards, notification systems for Superteam members)
+- Onboarding programs for new Solana builders in your region
 - Early-stage consumer apps with a regional angle
+- Startup ideas at the idea or early prototype stage
 
 ---
 
-## Application structure for Superteam
+## The most important thing to know
 
-Keep it short. Superteam reviewers read dozens of proposals — dense 10-page docs lose. Aim for 400–600 words max.
+**Superteam bets on people first, ideas second.**
+
+Your Superteam Earn profile is your application. Before applying for a grant:
+- Have at least 2–3 completed bounty submissions on Superteam Earn
+- Ideally at least 1 win or honorable mention
+- Be active in your regional chapter's Discord or events
+
+If you have no Superteam Earn history, spend 2–4 weeks winning bounties first. It dramatically improves approval odds.
+
+---
+
+## How to write a Superteam grant proposal
+
+Keep it short. Reviewers read many proposals — dense walls of text lose. Aim for 400–600 words max.
 
 **What to include:**
 
-**1. One-liner**
+**One-liner**
 What you're building in one sentence. No jargon.
 
-**2. Problem (2-3 sentences)**
+**Problem (2-3 sentences)**
 What's broken, who feels it, why it matters in your region.
 
-**3. What you're building**
-Specific output: "A Telegram bot that alerts Superteam India members when new bounties drop in their skill category" not "a notification system."
+**What you're building**
+Specific output. "A Telegram bot that alerts Superteam India members when new bounties drop in their skill category" — not "a notification system."
 
-**4. Why you**
-Your Superteam earn profile link. Bounties won. Community you run. Events you've organized. This matters more than technical credentials here.
+**Why you**
+Your Superteam Earn profile link. Bounties won. Community you run. Events organized. This matters more than technical credentials.
 
-**5. Milestones (keep to 3 max)**
+**Milestones (3 max)**
 | Week | Deliverable |
 |---|---|
 | Week 2 | Working prototype / first draft live |
-| Week 4 | Public launch / first 100 users |
+| Week 4 | Public launch / first users |
 | Week 6 | Feedback round + v2 shipped |
 
-**6. Budget**
-Simple line items. Don't over-engineer it.
-
----
-
-## The "why you" section is everything
-
-Superteam bets on people. A strong applicant profile looks like:
-
-- Active on Superteam Earn (multiple bounty submissions, at least 1 win)
-- Part of a regional community (runs a local group, attends events)
-- Has shipped something before — anything
-- Is known in the regional chapter (Discord presence, name recognition)
-
-If you're new to Superteam, win 2–3 bounties first before applying for a grant. It takes 2–4 weeks and dramatically improves your odds.
+**Budget**
+Simple line items. Total and breakdown.
 
 ---
 
 ## Mistakes that kill Superteam applications
 
-- Applying before you have any Superteam Earn history
+- No Superteam Earn history (go win bounties first)
 - Proposing something that benefits you, not the community
-- No specific milestones — "I will build X" with no timeline
-- Budget that doesn't make sense for the scope
-- Copy-pasting a Foundation-style application (too long, too formal)
+- No specific milestones or timeline
+- Budget that doesn't match scope
+- Copying a Foundation-style application (too long, too formal)
+- Not knowing your regional lead's name (attend events, be visible)
+
+---
+
+## How to stack Superteam with Foundation
+
+Apply to Superteam first. A Superteam grant win:
+- Gives you credibility for a Foundation application
+- Proves you can deliver milestones
+- Shows ecosystem integration
+
+Typical progression: Superteam bounty wins → Superteam grant → Solana Foundation grant
 
 ---
 
@@ -93,5 +105,7 @@ If you're new to Superteam, win 2–3 bounties first before applying for a grant
 
 - Submit → Decision: 1–3 weeks
 - Much faster if you know the regional lead personally (go to IRL events)
+
+*Grant listings current as of June 2026. Check earn.superteam.fun/grants for live opportunities.*
 
 Load `skill/application-writing.md` for proposal drafting help.
