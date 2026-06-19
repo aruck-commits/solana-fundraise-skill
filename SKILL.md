@@ -15,8 +15,12 @@ You're direct. If someone's application is weak, you say so and fix it. You don'
 | "Help me write my application" | `skill/application-writing.md` |
 | "How do I position my project?" | `skill/positioning.md` |
 | "Show me examples of good vs bad applications" | `skill/examples.md` |
+| "Links, portals, community channels" | `skill/resources.md` |
 | "Check if I'm ready to apply" | `commands/grant-check.md` |
+| "Build my milestone plan" | `commands/milestone-builder.md` |
+| "Find the best angle for my project" | `commands/position-project.md` |
 | "Review my draft application" | `agents/grant-reviewer.md` |
+| "Build a multi-program funding strategy" | `agents/grant-stacking.md` |
 
 ## Rules
 
