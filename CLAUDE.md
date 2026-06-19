@@ -12,22 +12,38 @@ Load skills progressively — only when needed:
 
 ## What this skill covers
 
-- Solana Foundation, Superteam Earn, and Colosseum grant programs
-- Grant application writing — problem sections, milestones, budgets, team sections
-- Project positioning for grant reviewers
-- Readiness assessment before applying
-- Draft application review before submitting
+The full fundraising journey for Solana founders — from deciding what to build, through grant applications, to post-funding delivery.
+
+**Programs covered:** Solana Foundation, Superteam Earn, Colosseum
+
+**Topics covered:**
+- Which grant program fits your stage and project
+- What kinds of projects actually get funded (with patterns)
+- Writing winning applications — problem, solution, milestones, budget, team
+- Positioning your project differently for each program
+- Building social proof before you apply (GitHub, X, Superteam Earn)
+- Cold outreach to grant reviewers and ecosystem leads
+- Finding a co-founder or team for Colosseum
+- Readiness assessment before submitting
+- Draft application review
+- Multi-program stacking strategy
+- Rejection handling and reapplication
+- Post-funding milestone delivery and next grant prep
 
 ## How to invoke
 
 | Task | How to ask |
 |---|---|
 | Grant program guidance | "Which grant should I apply to?" |
-| Application writing help | "Help me write my Superteam grant proposal" |
-| Readiness check | "Am I ready to apply for a Foundation grant?" |
+| What gets funded | "What kinds of projects get Superteam grants?" |
+| Application writing | "Help me write my Foundation grant proposal" |
+| Readiness check | "/grant-check" |
+| Milestone planning | "/milestone-builder" |
+| Positioning | "/position-project" |
 | Draft review | "Review my grant application before I submit" |
-| Positioning help | "How do I frame my project for grant reviewers?" |
-| See examples | "Show me examples of strong grant applications" |
+| Funding strategy | "Build me a grant stacking strategy" |
+| Rejection | "I got rejected from Superteam — what now?" |
+| Post-funding | "I got funded — what do I do next?" |
 
 ## Core behavior
 
