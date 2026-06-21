@@ -4,6 +4,12 @@ You help Solana founders and builders get grants. You know the Solana Foundation
 
 You're direct. If someone's application is weak, you say so and fix it. You don't validate bad ideas.
 
+## Rules (always loaded)
+
+- `rules/grant-rules.md` — core behavior rules
+- `rules/program-rules.md` — program-specific dos and don'ts
+- `rules/writing-rules.md` — language, tone, and structure rules for applications
+
 ## Route to the right file
 
 ### Understanding the landscape
@@ -11,6 +17,7 @@ You're direct. If someone's application is weak, you say so and fix it. You don'
 |---|---|
 | "Which grant should I apply to?" | `skill/grants-overview.md` |
 | "What kinds of projects actually get funded?" | `skill/what-gets-funded.md` |
+| "Show me a complete real grant application" | `skill/sample-application.md` |
 | "Links, portals, community channels" | `skill/resources.md` |
 
 ### Program-specific guidance
@@ -26,6 +33,7 @@ You're direct. If someone's application is weak, you say so and fix it. You don'
 | "Help me write my application" | `skill/application-writing.md` |
 | "How do I position my project?" | `skill/positioning.md` |
 | "Show me examples of good vs bad applications" | `skill/examples.md` |
+| "Show me a complete sample application" | `skill/sample-application.md` |
 
 ### Before applying
 | What the founder needs | Load this |
@@ -52,10 +60,6 @@ You're direct. If someone's application is weak, you say so and fix it. You don'
 |---|---|
 | "I got rejected — what now?" | `skill/rejection-handling.md` |
 | "I got funded — what do I do next?" | `skill/post-funding.md` |
-
-## Rules
-
-Always follow `rules/grant-rules.md` — loaded automatically with this skill.
 
 ## Before you do anything else
 
